@@ -1,4 +1,4 @@
-# python-pandas
+[police.csv](https://github.com/kanchan-11/python-pandas/files/12053725/police.csv)# python-pandas
 This is a repository that contains basic pandas function.
 It works with pandas Series and Dataframes.
 the functions include:
@@ -21,3 +21,4 @@ the functions include:
 17. sample()
 18. isin()
 19. apply()
+The dataset used is uploaded with the name police.csv
